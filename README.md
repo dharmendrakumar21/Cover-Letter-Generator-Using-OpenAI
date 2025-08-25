@@ -72,11 +72,11 @@ Dear Hiring Manager,
 I am writing to express my interest in the Data Analyst role at your company. As a Computer Science student with a strong foundation in Data Science, AWS, and Machine Learning, I have worked on multiple real-world projects that demonstrate both technical ability and problem-solving mindset...
 
 Sincerely,  
-Lucky Joy Tutika
+Dharmendra kumar
 
 ## 📬 Contact
 
-Made with ❤️ by Lucky Joy Tutika
+Made with ❤️ Dharamendra
 📧 Email: dharmendra21sde@gmail.com
 
 
