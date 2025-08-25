@@ -77,7 +77,8 @@ Lucky Joy Tutika
 ## 📬 Contact
 
 Made with ❤️ by Lucky Joy Tutika
-📧 Email: luckyjoytutika@gmail.com
+📧 Email: dharmendra21sde@gmail.com
+
 
 ## 🪪 License
 
